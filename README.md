@@ -9,7 +9,7 @@
 
 <img src="https://i.ibb.co/f05Wdtm/CALEBAREEVESOTECHSTACK.png" alt="Calebareevesotechstack" /> 
 
-<h2>Want to know more about me 😅- </h2>
+<h2 align="center">Want to know more about me 😅</h2>
 <p align="center">
     <a href="https://twitter.com/calebareeveso" target="_blank">
         <img align="center" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" alt="eni4sure" height="40" />
