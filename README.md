@@ -5,7 +5,7 @@
 <p><b>A 15y.o old Creative designer and developer from Nigeria.</b></p>
 <p>I build real-time interactive websites and applications which provide innovative Solutions that transform businesses and lives.<i> Building the future with code 😁 (innovator)<i/></p>
 
-<h2>Here are the technologies I use 📍- </h2>
+<h2>Here are the technologies and tools I use 📍- </h2>
 
 <img src="https://i.ibb.co/f05Wdtm/CALEBAREEVESOTECHSTACK.png" alt="Calebareevesotechstack" /> 
 
