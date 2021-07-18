@@ -12,15 +12,15 @@
 <h2 align="center">Want to know more about me 😅</h2>
 <p align="center">
     <a href="https://twitter.com/calebareeveso" target="_blank">
-        <img align="center" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" alt="Calebareeveso" height="40" />
+        <img align="center" src="https://img.icons8.com/plasticine/100/000000/twitter--v2.png" alt="Calebareeveso" height="40" />
     </a>
     &nbsp;
     <a href="https://linkedin.com/in/caleb-areeveso" target="_blank"
-        ><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Calebareeveso" height="40" />
+        ><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" alt="Calebareeveso" height="40" />
     </a>
     &nbsp;
     <a href="https://fb.com/caleb.areeveso" target="_blank">
-        <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Calebareeveso" height="40" />
+        <img align="center" src="https://img.icons8.com/doodle/48/000000/facebook-new.png" alt="Calebareeveso" height="40" />
     </a>
     &nbsp;
   </p>
